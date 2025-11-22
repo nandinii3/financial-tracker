@@ -77,7 +77,7 @@ export default function TransactionInput({ onSubmit, userId }: TransactionInputP
       <h2 className="mb-6 text-xl font-bold text-foreground">Add Transaction</h2>
       <div className="space-y-4">
         <div>
-          <label className="mb-2 block text-sm font-medium text-foreground">Amount ($)</label>
+          <label className="mb-2 block text-sm font-medium text-foreground">Amount (₹)</label>
           <input
             type="number"
             value={amount}
