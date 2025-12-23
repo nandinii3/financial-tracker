@@ -1,6 +1,6 @@
-# AI Financial Assistant
+# Financial Assistant
 
-A modern, AI-powered personal finance management app built with Next.js. Track budgets, categorize transactions, and get personalized financial coaching—all without requiring any API credits or external services.
+A modern, finance management app built with Next.js. Track budgets, categorize transactions, and get personalized financial coaching all without requiring any API credits or external services.Future plan is to integrate the application with AI for better customised experience.
 
 ## Features
 
@@ -14,7 +14,7 @@ A modern, AI-powered personal finance management app built with Next.js. Track b
 - Automatic category suggestions using smart rules
 - Transaction history with detailed breakdown
 
-🤖 **AI Financial Coach**
+🤖 **Financial Coach**
 - Personalized financial advice based on spending patterns
 - Smart recommendations for budget optimization
 - Works without any API credits required
